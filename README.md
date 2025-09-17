@@ -34,7 +34,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 
 ## Usage
-To use Resumave, simply visit http://chat-app-tr.onrender.com/ and start filling out your details. Once complete, you can chat.
+To use chatAPP, simply visit http://chat-app-tr.onrender.com/ and start filling out your details. Once complete, you can chat.
 
 ## License
 This project is licensed under the MIT License. see the LICENSE file for details.
